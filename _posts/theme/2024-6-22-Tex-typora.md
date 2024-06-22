@@ -11,7 +11,9 @@ typora-copy-images-to: ../../media/theme/Tex-Typora
 ---
 # Tex Typora Theme
 A Tex Typora theme based on [Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme/), still under the GPL3.0 license.
-
+## Notifications
+Designed and tested on windows. Not fully tested, but should work for macOS/Linux.
+Require style`Latin Modern Roman` `Jiazu Song` `SimSun` `STSong` `Noto Serif CJK SC` `Times New Roman` `STKaitito` `Latin Modern Mono` `Consolas` `Courier New work` `Alibaba PuHuiTi 2.0` `Microsoft YaHei` `STHeiti` to work properly,installation can be found in [read me](https://github.com/carols12352/tex-typora-theme/blob/main/README.md).
 ## Modification Notes
 
 1. Changed link style to pure black without underline, more in line with LaTeX design.
