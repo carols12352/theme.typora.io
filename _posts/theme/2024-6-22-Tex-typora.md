@@ -7,7 +7,7 @@ download: https://github.com/carols12352/tex-typora-theme
 author: carols12352
 thumbnail: Tex-Typora.png
 typora-root-url: ../../
-typora-copy-images-to: ../../media/theme/novel-tex
+typora-copy-images-to: ../../media/theme/Tex-Typora
 ---
 # Tex Typora Theme
 A Tex Typora theme based on [Keldos-Li / typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme/), still under the GPL3.0 license.
